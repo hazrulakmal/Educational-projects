@@ -1,7 +1,9 @@
 # Educational projects
 
-Welcome to my side project repository! Here is where I keep a collection of my side projects that I create for educational and learning purposes.  
-**Work in Progress** expect rough edges!
+Welcome to my side project repository, a place where I keep the collection of some of my side projects that I create for educational and learning purposes outside classes.  
+
+This repo is **Work in Progress** so expect rough edges!
+
 ## [market-basket-analysis](https://github.com/hazrulakmal/Educational-side-projects/tree/main/side-project/market-basket-analysis) **(Group)**
 *LSESU Data Science Society*
 
